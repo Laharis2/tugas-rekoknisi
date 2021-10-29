@@ -1,10 +1,8 @@
 # tugas-rekoknisi
 
 **Menghitung luas dan keliling persegi panjang menggunakaan flowgorithm**
-
-    ![Screenshot (42)](https://user-images.githubusercontent.com/91968610/139364227-38693798-c15b-4290-82f8-1fe3ec6f25b7.png)
-    
-    ![Screenshot (43) - Copy](https://user-images.githubusercontent.com/91968610/139364249-2da30b4c-06a5-4e57-8e70-3ff251fe93db.png)
+       ![Screenshot (42)](https://user-images.githubusercontent.com/91968610/139364322-ba4c670b-125f-4e69-bc3e-709c5b1d4250.png)
+        ![Screenshot (43) - Copy](https://user-images.githubusercontent.com/91968610/139364340-8f41c867-bcbc-424f-856c-9e41bae433bf.png)
 
  **Conversi suhu**
  
@@ -24,8 +22,8 @@
  3.celsius ke reamur
       ![Screenshot (48)](https://user-images.githubusercontent.com/91968610/139364096-20998b6d-ae31-43e7-8c0c-7cdcc3b18b29.png)
       
-      ![Screenshot (49)](https://user-images.githubusercontent.com/91968610/139364163-23fe352c-7048-4d19-a717-e12696ff5e4c.png)      
-       
+ ![Screenshot (49)](https://user-images.githubusercontent.com/91968610/139364470-0ce2fe0d-23b3-41d3-938b-dabbb6b51441.png)
+  
        
 4. celsius ke fahrenheit
  
